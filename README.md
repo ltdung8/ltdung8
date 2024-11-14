@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ltdung8
-  ![image](https://github.com/user-attachments/assets/faa7c53f-24aa-4505-8aaf-a8cb799b838c)
+![image](https://github.com/user-attachments/assets/76829e55-03b0-4c63-bf87-49f37ce023fd)
 
 - 👀 I’m interested in badminton
 - 🌱 I’m currently learning test automation  with Selenium
